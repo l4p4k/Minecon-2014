@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Minecon</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pics">Gallery</string>
+    <string name="title_activity_info">Information</string>
+    <string name="info_who">Who?</string>
+    <string name="info_whoAns">You and all your villager family and friends!</string>
+    <string name="info_what">What?</string>
+    <string name="info_whatAns">MineCon is an annual convention for the video game Minecraft, created by Mojang. The first gathering in 2010 was known as MinecraftCon. The MineCon 2011 convention was held in Las Vegas and celebrated the launch of the game with Minecraft-related discussion panels and gaming areas. Over 7,000 fans attended the 2012 convention at the Paris Disneyland Park in November 2012; Mojang announced updates to the game at the convention, including details about the 1.5 "Redstone" update and the 1.6 "Horse" update which will have new mobs. At each MineCon, attendees received an in-game cape. In 2011 attendees got a red cape with a Creeper face in the center. In 2012 a dark blue cape with a golden pickaxe in the center. In 2013 a jade green cape with an elevated piston in the center.</string>
+    <string name="info_where">Where?</string>
+    <string name="info_whereAns">Birmingham Nec Arena.</string>
+    <string name="info_when">When?</string>
+    <string name="info_whenAns">July 21 2015.</string>
+    <string name="info_how">How much?</string>
+    <string name="info_howAns">Estimated price for a ticket is $150 - $160 per person.</string>
+    <string name="title_activity_map">Map</string>
+    <string name="mapLink">Open map</string>
+    <string name="title_activity_site">More!</string>
+
+</resources>

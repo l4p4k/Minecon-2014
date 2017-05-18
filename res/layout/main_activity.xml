@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_blur"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/toPics"
+        style="android:buttonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_pics" />
+
+    <Button
+        android:id="@+id/toInfo"
+        style="android:buttonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_info" />
+    <Button
+        android:id="@+id/toMap"
+        style="android:buttonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_map" />
+    
+    <Button
+        android:id="@+id/toSite"
+        style="android:buttonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_site" />
+
+</LinearLayout>
